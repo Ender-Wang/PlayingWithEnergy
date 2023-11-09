@@ -11,7 +11,7 @@ Welcome to "Playing with Energy," an exciting project that combines gaming with 
 2. **How to get it running?**
 
    1. Clone this repo.
-   2. Download all three zip files and unzip them, put them in `/PlayingWithEnergy/Assets` folder.
+   2. Download all zip files from [Download Center](https://enderwang.notion.site/Doc-12-Project-Documentation-0ffdade4511543b8ad51139b8b8dcd97?pvs=4) and unzip them, put them under `/PlayingWithEnergy/Assets` folder.
    3. Drag the StartScene to the Hierarchy, then press start, all the necessary components will be loaded automatically:![Alt text](/README/StartScene.png)
 
 3. **Build and Export as an Executable**
@@ -20,4 +20,4 @@ Welcome to "Playing with Energy," an exciting project that combines gaming with 
 
 # Documentation
 
-For documentation, please refer to our [Project Documentation](#todo).
+For detailed documentation, please refer to our [Project Documentation](https://enderwang.notion.site/Doc-12-Project-Documentation-0ffdade4511543b8ad51139b8b8dcd97?pvs=4).
